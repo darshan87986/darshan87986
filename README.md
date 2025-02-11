@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there! I'm a passionate Web Developer with experience in Frontend Development (HTML, CSS, JavaScript) and Backend Development with Java & NodeJS. I love building interactive web applications and continuously learning new technologies to enhance my skills.
 
-<!--
-**darshan87986/darshan87986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Skills
+Frontend: HTML, CSS, JavaScript
+Backend: NodeJS, Java
+Tools & Platforms: Eclipse, Tomcat, Git, GitHub
+🌱 Currently Learning
+Full-Stack Development
+Data Structures & Algorithms
+📫 Connect with Me
+Feel free to check out my projects and connect with me! 🚀
